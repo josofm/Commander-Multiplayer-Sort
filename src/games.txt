@@ -1,0 +1,21 @@
+Jogo_10: Teferi, Saskia, Savra, Atraxa
+Jogo_21: Arahbo, Yidris, Ezuri, Muldrota
+Jogo_8: Athreos, Ezuri, Karametra, Inalla
+Jogo_20: Karametra, Nekusar, Athreos, Nahiri
+Jogo_12: Yidris, Freyalise, Phenax, Kumena
+Jogo_2: Scion of Ur, Ezuri, Meren, Yidris
+Jogo_4: Tuvasa, Athreos, Lasav, Karametra
+Jogo_17: Inalla, Kumena, Saskia, Borborigmo
+Jogo_7: Aminatou, Muldrota, Arahbo, Inalla
+Jogo_13: Muldrota, Tajic, Breya, Borborigmo
+Jogo_3: Savra, Breya, Kumena, Phenax
+Jogo_14: Tuvasa, Aminatou, Daxos, Edgar
+Jogo_6: Borborigmo, Daxos, Atraxa, Nekusar
+Jogo_9: Meren, Sahelli, Nahiri, Arahbo
+Jogo_15: Edgar, Savra, Teferi, Meren
+Jogo_19: Aminatou, Lasav, Freyalise, Phenax
+Jogo_18: Daxos, Sahelli, Atraxa, Breya
+Jogo_16: Tuvasa, Tajic, Kynaios and Tiro, Scion of Ur
+Jogo_5: Tajic, Edgar, Saskia, Nahiri
+Jogo_1: Kynaios and Tiro, Sahelli, Freyalise, Teferi
+Jogo_11: Scion of Ur, Nekusar, Kynaios and Tiro, Lasav
